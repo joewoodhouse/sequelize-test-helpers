@@ -15,7 +15,7 @@ A collection of utilities to help with unit-testing [Sequelize](http://docs.sequ
 This library assumes:
 
 1. You are using [`chai`](http://www.chaijs.com) — Version 4 or better.
-2. You are using [`sinon`](http://sinonjs.org) — Version 5 or better.
+2. You are using [`sinon`](http://sinonjs.org) — Version 10 or better.
 3. Using [`mocha`](https://mochajs.org) is also recommended, but as long as you are using `chai` and `sinon` this should work with any test runner.
 
 **Note** Jest is not supported unless you are also using `sinon` and `chai`, which is unlikely.
